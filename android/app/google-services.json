@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240125777269",
+    "project_id": "msgmee-eb7cb",
+    "storage_bucket": "msgmee-eb7cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240125777269:android:d1b6363723486347326f3c",
+        "android_client_info": {
+          "package_name": "com.example.msgme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrendaMV4sXajcpq4m2tfBnp1d_KiVLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
